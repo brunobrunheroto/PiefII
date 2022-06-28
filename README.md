@@ -11,27 +11,27 @@
 ## <ins>How to use </ins>
 
 - Download the project.
-- Install Apache NetBeans IDE
+- Install Apache NetBeans IDE.
 - Import and run the program.
 
 ## <ins>Execution of the program:</ins>
-<p>Splash Screen</p>
+<p><ins>Splash Screen</p>
 
 ![Splash_screen](https://user-images.githubusercontent.com/67275098/176276354-a66834fd-89ed-4e3c-9a4b-12210395a5bc.gif)
 
-<p>Main interface</p>
+<p><ins>Main interface</ins></p>
 
 ![main_interface](https://user-images.githubusercontent.com/67275098/176276400-8f081fd9-aceb-4683-b379-ed1ff97a374d.png)
 
-<p>Help interface</p>
+<p><ins>Help interface</ins></p>
 
 ![help_interface](https://user-images.githubusercontent.com/67275098/176276561-4ab297c3-b926-4d1a-bce9-c48db70c29eb.png)
 
-<p>About interface</p>
+<p><ins>About interface</ins></p>
 
 ![About_interface](https://user-images.githubusercontent.com/67275098/176276591-3772bc0e-d8c7-4bad-9635-596a28e28719.png)
 
-<p>Example of Use</p>
+<p><ins>Example of Use</ins></p>
 
 ![Use_exemple](https://user-images.githubusercontent.com/67275098/176276654-0ad0934b-103e-4b1b-a309-5f28ed8b6a30.png)
 
